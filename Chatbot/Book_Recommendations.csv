@@ -1,0 +1,158 @@
+Author,Title,Genre,Language,Rating
+J.K. Rowling,Harry Potter and the Philosopher's Stone,Fantasy,English,4.8
+George R.R. Martin,A Game of Thrones,Fantasy,English,4.7
+Jane Austen,Pride and Prejudice,Romance,English,4.6
+F. Scott Fitzgerald,The Great Gatsby,Classic,English,4.5
+Harper Lee,To Kill a Mockingbird,Classic,English,4.8
+Gabriel García Márquez,One Hundred Years of Solitude,Magical Realism,Spanish,4.7
+Milan Kundera,The Unbearable Lightness of Being,Philosophical Fiction,Czech,4.6
+Paulo Coelho,The Alchemist,Philosophical Fiction,Portuguese,4.5
+Leo Tolstoy,War and Peace,Historical Fiction,Russian,4.8
+Agatha Christie,Murder on the Orient Express,Mystery,English,4.7
+Dan Brown,The Da Vinci Code,Thriller,English,4.4
+Stephen King,The Shining,Horror,English,4.6
+Isaac Asimov,Foundation,Science Fiction,English,4.7
+Frank Herbert,Dune,Science Fiction,English,4.8
+Margaret Atwood,The Handmaid's Tale,Dystopian Fiction,English,4.6
+Khaled Hosseini,The Kite Runner,Literary Fiction,English,4.7
+Yann Martel,Life of Pi,Adventure Fiction,English,4.5
+Markus Zusak,The Book Thief,Historical Fiction,English,4.8
+John Green,The Fault in Our Stars,Young Adult,English,4.5
+Suzanne Collins,The Hunger Games,Young Adult,English,4.6
+J.R.R. Tolkien,The Lord of the Rings,Fantasy,English,4.9
+Ernest Hemingway,The Old Man and the Sea,Literary Fiction,English,4.5
+Ray Bradbury,Fahrenheit 451,Dystopian Fiction,English,4.7
+Aldous Huxley,Brave New World,Dystopian Fiction,English,4.6
+Orwell George,1984,Dystopian Fiction,English,4.8
+Chinua Achebe,Things Fall Apart,Literary Fiction,English,4.7
+Toni Morrison,Beloved,Literary Fiction,English,4.8
+Salman Rushdie,Midnight's Children,Magical Realism,English,4.6
+Murakami Haruki,Norwegian Wood,Literary Fiction,Japanese,4.5
+Isabel Allende,The House of the Spirits,Magical Realism,Spanish,4.6
+Jorge Luis Borges,Ficciones,Short Stories,Spanish,4.8
+Umberto Eco,The Name of the Rose,Historical Fiction,Italian,4.7
+Italo Calvino,If on a winter's night a traveler,Postmodern Fiction,Italian,4.6
+Albert Camus,The Stranger,Philosophical Fiction,French,4.7
+Victor Hugo,Les Misérables,Historical Fiction,French,4.8
+Gustave Flaubert,Madame Bovary,Literary Fiction,French,4.6
+Marcel Proust,In Search of Lost Time,Literary Fiction,French,4.7
+Hermann Hesse,Siddhartha,Philosophical Fiction,German,4.6
+Franz Kafka,The Metamorphosis,Literary Fiction,German,4.8
+Thomas Mann,The Magic Mountain,Literary Fiction,German,4.7
+Charles Dickens,Great Expectations,Classic,English,4.6
+Emily Brontë,Wuthering Heights,Classic,English,4.7
+Charlotte Brontë,Jane Eyre,Classic,English,4.8
+Mary Shelley,Frankenstein,Horror,English,4.6
+Bram Stoker,Dracula,Horror,English,4.7
+H.G. Wells,The Time Machine,Science Fiction,English,4.6
+Jules Verne,Twenty Thousand Leagues Under the Sea,Adventure Fiction,French,4.7
+Alexandre Dumas,The Three Musketeers,Adventure Fiction,French,4.8
+Miguel de Cervantes,Don Quixote,Classic,Spanish,4.8
+Dante Alighieri,The Divine Comedy,Classic,Italian,4.9
+Homer,The Odyssey,Classic,English,4.8
+Virgil,The Aeneid,Classic,English,4.7
+Oscar Wilde,The Picture of Dorian Gray,Literary Fiction,English,4.7
+Mark Twain,The Adventures of Huckleberry Finn,Classic,English,4.7
+Herman Melville,Moby Dick,Adventure Fiction,English,4.6
+Joseph Conrad,Heart of Darkness,Literary Fiction,English,4.7
+Virginia Woolf,Mrs. Dalloway,Literary Fiction,English,4.6
+James Joyce,Ulysses,Literary Fiction,English,4.7
+Fyodor Dostoevsky,Crime and Punishment,Literary Fiction,Russian,4.8
+Fyodor Dostoevsky,The Brothers Karamazov,Literary Fiction,Russian,4.9
+Anton Chekhov,The Cherry Orchard,Short Stories,Russian,4.6
+Nikolai Gogol,Dead Souls,Literary Fiction,Russian,4.7
+Alexander Pushkin,Eugene Onegin,Literary Fiction,Russian,4.8
+Günter Grass,The Tin Drum,Literary Fiction,German,4.7
+Patrick Süskind,Perfume,Literary Fiction,German,4.6
+Bernhard Schlink,The Reader,Literary Fiction,German,4.7
+Stendhal,The Red and the Black,Literary Fiction,French,4.7
+Alexandre Dumas,The Count of Monte Cristo,Adventure Fiction,French,4.8
+Honoré de Balzac,Le Père Goriot,Literary Fiction,French,4.7
+Guy de Maupassant,Bel-Ami,Literary Fiction,French,4.6
+Emile Zola,Germinal,Literary Fiction,French,4.7
+Federico García Lorca,Blood Wedding,Short Stories,Spanish,4.6
+Miguel de Unamuno,Mist,Philosophical Fiction,Spanish,4.6
+Carlos Ruiz Zafón,The Shadow of the Wind,Mystery,Spanish,4.7
+Isabel Allende,Eva Luna,Magical Realism,Spanish,4.6
+Laura Esquivel,Like Water for Chocolate,Magical Realism,Spanish,4.7
+Italo Svevo,Zeno's Conscience,Literary Fiction,Italian,4.6
+Primo Levi,If This Is a Man,Literary Fiction,Italian,4.8
+Elena Ferrante,My Brilliant Friend,Literary Fiction,Italian,4.7
+José Saramago,Blindness,Literary Fiction,Portuguese,4.7
+Fernando Pessoa,The Book of Disquiet,Philosophical Fiction,Portuguese,4.6
+Clarice Lispector,The Hour of the Star,Literary Fiction,Portuguese,4.7
+Yukio Mishima,The Temple of the Golden Pavilion,Literary Fiction,Japanese,4.6
+Kenzaburō Ōe,A Personal Matter,Literary Fiction,Japanese,4.7
+Banana Yoshimoto,Kitchen,Literary Fiction,Japanese,4.5
+Kobo Abe,The Woman in the Dunes,Literary Fiction,Japanese,4.6
+Josef Škvorecký,The Engineer of Human Souls,Literary Fiction,Czech,4.6
+Bohumil Hrabal,Too Loud a Solitude,Literary Fiction,Czech,4.7
+Václav Havel,The Garden Party,Short Stories,Czech,4.6
+Neil Gaiman,American Gods,Fantasy,English,4.6
+Terry Pratchett,Good Omens,Fantasy,English,4.7
+Brandon Sanderson,The Way of Kings,Fantasy,English,4.8
+Patrick Rothfuss,The Name of the Wind,Fantasy,English,4.7
+Ursula K. Le Guin,The Left Hand of Darkness,Science Fiction,English,4.7
+Philip K. Dick,Do Androids Dream of Electric Sheep,Science Fiction,English,4.6
+Arthur C. Clarke,2001: A Space Odyssey,Science Fiction,English,4.7
+Robert Heinlein,Stranger in a Strange Land,Science Fiction,English,4.6
+Octavia Butler,Kindred,Science Fiction,English,4.7
+Gillian Flynn,Gone Girl,Thriller,English,4.5
+Paula Hawkins,The Girl on the Train,Thriller,English,4.4
+Stieg Larsson,The Girl with the Dragon Tattoo,Thriller,English,4.6
+Lee Child,Killing Floor,Thriller,English,4.5
+John le Carré,The Spy Who Came in from the Cold,Thriller,English,4.7
+Sir Arthur Conan Doyle,The Hound of the Baskervilles,Mystery,English,4.7
+Raymond Chandler,The Big Sleep,Mystery,English,4.6
+Dashiell Hammett,The Maltese Falcon,Mystery,English,4.7
+Louise Penny,Still Life,Mystery,English,4.5
+Tana French,In the Woods,Mystery,English,4.6
+Dean Koontz,Intensity,Horror,English,4.5
+Clive Barker,The Hellbound Heart,Horror,English,4.6
+Shirley Jackson,The Haunting of Hill House,Horror,English,4.7
+Anne Rice,Interview with the Vampire,Horror,English,4.6
+H.P. Lovecraft,The Call of Cthulhu,Horror,English,4.7
+Nicholas Sparks,The Notebook,Romance,English,4.5
+Diana Gabaldon,Outlander,Romance,English,4.6
+Colleen Hoover,It Ends with Us,Romance,English,4.5
+Charlotte Brontë,Jane Eyre,Romance,English,4.8
+Emily Brontë,Wuthering Heights,Romance,English,4.7
+Zadie Smith,White Teeth,Literary Fiction,English,4.6
+Ian McEwan,Atonement,Literary Fiction,English,4.7
+Kazuo Ishiguro,The Remains of the Day,Literary Fiction,English,4.7
+Donna Tartt,The Secret History,Literary Fiction,English,4.6
+Cormac McCarthy,The Road,Literary Fiction,English,4.7
+Hilary Mantel,Wolf Hall,Historical Fiction,English,4.7
+Ken Follett,The Pillars of the Earth,Historical Fiction,English,4.6
+Philippa Gregory,The Other Boleyn Girl,Historical Fiction,English,4.5
+Diana Gabaldon,Outlander,Historical Fiction,English,4.6
+Bernard Cornwell,The Last Kingdom,Historical Fiction,English,4.6
+Veronica Roth,Divergent,Young Adult,English,4.5
+Cassandra Clare,City of Bones,Young Adult,English,4.5
+Sarah J. Maas,Throne of Glass,Young Adult,English,4.6
+Rick Riordan,The Lightning Thief,Young Adult,English,4.6
+Rainbow Rowell,Eleanor & Park,Young Adult,English,4.5
+Jules Verne,Journey to the Center of the Earth,Adventure Fiction,French,4.7
+Robert Louis Stevenson,Treasure Island,Adventure Fiction,English,4.7
+Rudyard Kipling,The Jungle Book,Adventure Fiction,English,4.6
+Jack London,The Call of the Wild,Adventure Fiction,English,4.7
+Daniel Defoe,Robinson Crusoe,Adventure Fiction,English,4.6
+Jean-Paul Sartre,Nausea,Philosophical Fiction,French,4.7
+Simone de Beauvoir,The Second Sex,Philosophical Fiction,French,4.8
+Friedrich Nietzsche,Thus Spoke Zarathustra,Philosophical Fiction,German,4.7
+Jean-Jacques Rousseau,The Confessions,Philosophical Fiction,French,4.6
+Voltaire,Candide,Philosophical Fiction,French,4.7
+Gabriel García Márquez,Love in the Time of Cholera,Magical Realism,Spanish,4.7
+Isabel Allende,City of the Beasts,Magical Realism,Spanish,4.6
+Laura Esquivel,The Law of Love,Magical Realism,Spanish,4.5
+Jorge Luis Borges,The Aleph,Short Stories,Spanish,4.8
+Anton Chekhov,The Lady with the Dog,Short Stories,Russian,4.7
+Edgar Allan Poe,The Complete Stories,Short Stories,English,4.8
+Raymond Carver,What We Talk About When We Talk About Love,Short Stories,English,4.7
+Alice Munro,Dear Life,Short Stories,English,4.7
+Italo Calvino,Invisible Cities,Postmodern Fiction,Italian,4.8
+Vladimir Nabokov,Pale Fire,Postmodern Fiction,English,4.7
+Thomas Pynchon,The Crying of Lot 49,Postmodern Fiction,English,4.6
+Don DeLillo,White Noise,Postmodern Fiction,English,4.6
+Kurt Vonnegut,Slaughterhouse-Five,Postmodern Fiction,English,4.7
+
